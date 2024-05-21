@@ -8,7 +8,7 @@ functionality to it.
 Let's write a currency converter. It should take an input like the following:
 
 ```bash
-node cli convert 100 USD GBP
+node cli convert currency 100 USD GBP
 ```
 
 and return the equivalent amount in the second currency.
