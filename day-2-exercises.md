@@ -42,7 +42,7 @@ Finally, you'll find a function `makeBreakfast()` inside
 `exercises/breakfast.js`.
 
 This function should return the toast and coffee that you made from the previous
-functions.
+functions. Make sure to await them, and pass them any arguments they need.
 
 ## Exercise 2: Error Handling
 
