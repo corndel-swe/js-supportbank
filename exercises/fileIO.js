@@ -16,7 +16,7 @@ export async function readDiaryEntry() {
   // TODO: Return the contents
 }
 
-// Part 3: Overwrite ./resources/3-save-data.txt with saveData
+// Part 3: Overwrite ./resources/3-save-data.txt with saveDataString
 export async function writeSaveData(saveData) {
   // The path is provided for you:
   const path = new URL('./resources/3-save-data.txt', import.meta.url)
