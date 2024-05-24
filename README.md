@@ -13,7 +13,7 @@ financial data stored on the user's computer, and make use of data on a server.
 For example,
 
 ```bash
-node cli convert 100 USD GBP
+node cli convert currency 100 USD GBP
 ```
 
 will convert currency for them.
@@ -24,7 +24,7 @@ Right now, some parts of the project have been written, but it has been
 abandoned by the contractor, and there are a number of steps we need to take to
 get it working.
 
-Forunately, the original developer was practising TDD, so there are some tests
+Fortunately, the original developer was practising TDD, so there are some tests
 to guide us!
 
 ## Technologies used
