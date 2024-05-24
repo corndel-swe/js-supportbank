@@ -25,6 +25,13 @@ You should add two commands:
   with the date and narrative, for that person’s account. For example,
   `node cli list "jon a"` would list all of Jon A’s transactions.
 
+## Moving on
+
+Once you have dealt with `data/Transactions2014.csv`, there are some other files
+in the `data` folder - see if you can make the application work with those, too.
+You might need to do some research online to see how to deal with issues that
+may crop up.
+
 ## Hints
 
 ### Working with csv
