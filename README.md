@@ -39,11 +39,9 @@ to guide us!
 ## Getting started
 
 1. Fork the project
+
 2. Clone the project locally
+
 3. Open `day-1-exercises.md` and follow the instructions from there.
-
-4. Clone the project locally
-
-5. Open `day-1-exercises.md` and follow the instructions from there.
 
 Good luck!
