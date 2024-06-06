@@ -88,6 +88,13 @@ and see their new salary after tax.
 
 ## Extensions
 
+### Tests
+
+Consider adding some tests to `tests/models` to ensure your models behave as
+they should.
+
+### Optional parameters
+
 If you add a parameter to a command using square brackets instead of round
 brackets, it becomes optional.
 
