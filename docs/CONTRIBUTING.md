@@ -29,3 +29,10 @@ SupportBank by typing intuitive commands in the terminal.
 In general, the code in this folder should focus on communicating between the
 user and the models, and it should avoid performing business logic (e.g.
 calculating tax) which really belongs in the model layer.
+
+## Tests
+
+Only exercises currently have tests - if you have any spare time in the
+workshops, feel free to add more!
+
+If you enjoy TDD, you could certainly use this methodology during the workshops.
